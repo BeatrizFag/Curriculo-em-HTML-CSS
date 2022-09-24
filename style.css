@@ -1,0 +1,28 @@
+body {
+    margin-left: 50px;
+    margin-right: 50px;
+    font-family: Arial;
+    font-size: 14px;
+}
+h1 {
+    font-size: 18px;
+}
+
+h2 {
+    font-size: 18px;
+}
+
+.dadospessoais {
+    text-align: center;
+}
+
+.objetivo {
+    font-size: 16px;
+    border: 1px solid #E8E8E8;
+    background-color: #E8E8E8;
+    text-align: center;
+}
+
+span {
+    font-weight: bold;
+}
